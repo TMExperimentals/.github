@@ -2,6 +2,8 @@
 
 TM Solution github organization is a collection of various repositories.
 
+> Note: many repos which are the part of this organization collection are private. 
+
 | Service          |   gRPC   |   HTTP   |       Framework       | Language |
 | :--------------- | :------: | :------: | :--------------: | :------: |
 | ~~[GatewayApi](https://github.com/itsbibeksaini/GatewayApi)~~       |    ~~x~~     |   ~~5000~~   |   ~~ASP.NET Core~~   |    ~~C#~~    |
