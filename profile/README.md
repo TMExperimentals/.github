@@ -1,6 +1,6 @@
 ## TM Solutions
 
-TM Solution organization is a collection of various repositories.
+TM Solution github organization is a collection of various repositories.
 
 | Service          |   gRPC   |   HTTP   |       Framework       | Language |
 | :--------------- | :------: | :------: | :--------------: | :------: |
