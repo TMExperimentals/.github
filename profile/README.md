@@ -14,3 +14,5 @@ TM Solution github organization is a collection of various repositories.
 | [SettingsApi](https://github.com/itsbibeksaini/SettingsApi)      |    x     |   5004   |    SpringBoot    |   Java   |
 | [NotificationsApi](https://github.com/itsbibeksaini/NotificationApi) |    x     |   5005   |   ASP.NET Core   |    C#    |
 | [ClientApp](https://github.com/itsbibeksaini/ClientApp) | x | 80 | Angular | Typescript |
+
+Follow docs repo to see documentation guides: [Docs](https://github.com/TMExperimentals/docs)
