@@ -11,7 +11,7 @@ TM Solution github organization is a collection of various repositories.
 | ~~[AuthApi](https://github.com/itsbibeksaini/AuthApi)~~      |  ~~x~~   | ~~5001~~ | ~~ASP.NET Core~~ |  ~~C#~~  |
 | ~~[AccountApi](https://github.com/itsbibeksaini/AccountApi)~~   | ~~6001~~ | ~~5002~~ | ~~ASP.NET Core~~ |  ~~C#~~  |
 | [PolicyApi](https://github.com/itsbibeksaini/PolicyApi)        |   6002   |   5003   |   ASP.NET Core   |    C#    |
-| [SettingsApi](https://github.com/itsbibeksaini/SettingsApi)      |    x     |   5004   |    SpringBoot    |   Java   |
+| [SettingsApi](https://github.com/itsbibeksaini/SettingsApi)      |    x     |   5004   |    SpringBoot    |   Java   | ![Build Status](https://github.com/TMExperimentals/SettingsApi/actions/workflows/gradle.yml/badge.svg) | 
 | [NotificationsApi](https://github.com/itsbibeksaini/NotificationApi) |    x     |   5005   |   ASP.NET Core   |    C#    |
 | [ClientApp](https://github.com/itsbibeksaini/ClientApp) | x | 80 | Angular | Typescript |
 
