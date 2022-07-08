@@ -17,3 +17,11 @@ TM Solution github organization is a collection of various repositories.
 | [ClientApp](https://github.com/itsbibeksaini/ClientApp) | x | 80 | Angular | Typescript | [![Node.js CI](https://github.com/TMExperimentals/ClientApp/actions/workflows/node.js.yml/badge.svg)](https://github.com/TMExperimentals/ClientApp/actions/workflows/node.js.yml) |
 
 Follow docs repo to see documentation guides: [Docs](https://github.com/TMExperimentals/docs)
+
+### Other services
+
+| Service |
+| :------ |
+| [mockups-react](https://github.com/TMExperimentals/mockups-react) |
+| [mockups](https://github.com/TMExperimentals/mockups) |
+| [poet-experiments](https://github.com/TMExperimentals/poet-experiments) |
