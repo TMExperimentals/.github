@@ -20,8 +20,8 @@ Follow docs repo to see documentation guides: [Docs](https://github.com/TMExperi
 
 ### Other services
 
-| Service |
-| :------ |
-| [mockups-react](https://github.com/TMExperimentals/mockups-react) |
+| Service | Build status |
+| :------ | :----------- |
+| [mockups-react](https://github.com/TMExperimentals/mockups-react) | [![Node.js CI](https://github.com/TMExperimentals/mockups-react/actions/workflows/node.js.yml/badge.svg)](https://github.com/TMExperimentals/mockups-react/actions/workflows/node.js.yml) |
 | [mockups](https://github.com/TMExperimentals/mockups) |
 | [poet-experiments](https://github.com/TMExperimentals/poet-experiments) |
