@@ -23,5 +23,5 @@ Follow docs repo to see documentation guides: [Docs](https://github.com/TMExperi
 | Service | Build status |
 | :------ | :----------- |
 | [mockups-react](https://github.com/TMExperimentals/mockups-react) | [![Node.js CI](https://github.com/TMExperimentals/mockups-react/actions/workflows/node.js.yml/badge.svg)](https://github.com/TMExperimentals/mockups-react/actions/workflows/node.js.yml) <br/> [![pages-build-deployment](https://github.com/TMExperimentals/mockups-react/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/TMExperimentals/mockups-react/actions/workflows/pages/pages-build-deployment) |
-| [mockups](https://github.com/TMExperimentals/mockups) |
+| [mockups](https://github.com/TMExperimentals/mockups) | [![Node.js CI](https://github.com/TMExperimentals/mockups/actions/workflows/node.js.yml/badge.svg)](https://github.com/TMExperimentals/mockups/actions/workflows/node.js.yml) |
 | [poet-experiments](https://github.com/TMExperimentals/poet-experiments) | [![Java CI with Gradle](https://github.com/TMExperimentals/poet-experiments/actions/workflows/build.yml/badge.svg)](https://github.com/TMExperimentals/poet-experiments/actions/workflows/build.yml) |
